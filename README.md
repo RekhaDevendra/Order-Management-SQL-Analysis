@@ -14,6 +14,7 @@ This project focuses on analyzing manufacturing data to optimize order managemen
 - **SQL** (PostgreSQL)
 - Data Analysis & Reporting
 - Data Cleaning & Transformation
+- (**Tableau**) Data Visualization 
 
 ## Installation
 
