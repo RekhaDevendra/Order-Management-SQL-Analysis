@@ -37,5 +37,8 @@ Ensure that the database is correctly set up with all the necessary tables for t
 - Once the database and tables are set up, you can execute the provided SQL queries to aggregate and analyze product orders, categorize pricing, track production stages, and clean the data.
 - To run a query, simply execute the SQL command in your PostgreSQL interface.
 
+**Contributing**
+Feel free to fork the repository and submit a pull request for bug fixes, features, or improvements.
+
 **License**
 This project is licensed under the Apache License 2.0.
